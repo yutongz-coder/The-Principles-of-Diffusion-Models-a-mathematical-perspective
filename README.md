@@ -1,13 +1,17 @@
-# The Principles of Diffusion Models: A Mathematical Perspective
+# The-Principles-of-Diffusion-Models-a-mathematical-perspective-note
+
+从数学的底层逻辑出发，重新理解 diffusion model 的本质。
 
 ## Notes
 
-1. [Gaussian VAE](./01-gaussian-vae.md)
-2. [HVAE](./02-hvae.md)
-3. [DDPM](./03-ddpm.md)
-4. [EBM](./04-ebm.md)
-5. [NCSN](./05-ncsn.md)
-6. [Score SDE](./06-score-sde.md)
-7. [Flow Matching](./07-flow-matching.md)
-8. [Diffusion Models and Optimal Transport](./08-dm-ot.md)
-9. [Unified and Systematic Lens](./09-unified-lens.md)
+| Part | Topic | Markdown | PDF |
+|---|---|---|---|
+| 1 | Gaussian VAE | [Read](./docs/01-gaussian-vae.md) | [PDF](./Gaussian%20VAE.pdf) |
+| 2 | HVAE | [Read](./docs/02-hvae.md) | [PDF](./HVAE.pdf) |
+| 3 | DDPM | Coming soon | Coming soon |
+| 4 | EBM | Coming soon | Coming soon |
+| 5 | NCSN | Coming soon | Coming soon |
+| 6 | Score SDE | Coming soon | Coming soon |
+| 7 | Flow Matching | Coming soon | Coming soon |
+| 8 | DM and Optimal Transport | Coming soon | Coming soon |
+| 9 | Unified and Systematic Lens | Coming soon | Coming soon |
