@@ -8,7 +8,7 @@
 |---|---|---|---|
 | 1 | Gaussian VAE | [Read](./docs/01-gaussian-vae.md) | [PDF](./Gaussian%20VAE.pdf) |
 | 2 | HVAE | [Read](./docs/02-hvae.md) | [PDF](./HVAE.pdf) |
-| 3 | DDPM | Coming soon | Coming soon |
+| 3 | DDPM | ./01-gaussian-vae.html | Coming soon |
 | 4 | EBM | Coming soon | Coming soon |
 | 5 | NCSN | Coming soon | Coming soon |
 | 6 | Score SDE | Coming soon | Coming soon |
