@@ -1,4 +1,4 @@
-
+这个仓库中包括了四部分内容：李宏毅老师机器学习课笔记-李沐动手学深度学习-The-Principles-of-Diffusion-Models-统计学习方法（李航）
 # The-Principles-of-Diffusion-Models-a-mathematical-perspective-note
 
 从数学的底层逻辑出发，重新理解 diffusion model 的本质。
